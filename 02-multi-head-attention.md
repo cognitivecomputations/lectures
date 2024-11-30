@@ -1,0 +1,7 @@
+- Why single attention head isn't enough
+- Parameter matrices breakdown
+- Linear projections in detail
+- Head dimension calculations
+- Pattern specialization per head
+- Output aggregation mechanisms
+- Parallel computation benefits
