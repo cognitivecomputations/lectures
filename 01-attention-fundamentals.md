@@ -1,0 +1,9 @@
+- Brief historical context (5 min)
+  - Evolution: FFN → RNN → LSTM → Attention
+  - Why direct connections matter
+- Query/Key/Value framework
+- Dot-product attention mathematics
+- Softmax and scaling deep dive
+- Worked example from start to finish
+- Attention pattern visualization
+- Masking in attention
